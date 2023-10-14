@@ -2,4 +2,4 @@
 
 Exercise of practise: node-js, express, passport
 
-https://github.com/ccharfu/login-node-js
+https://github.com/KrozFu/login-node-js
